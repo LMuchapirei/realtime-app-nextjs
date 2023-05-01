@@ -1,3 +1,30 @@
+Next JS uses page based routing,
+
+
+example in the app directory
+  app
+     dashboard
+        page.tsx   || 
+
+  we can go to the route where our serve is running at say localhost:3000
+  and then we say localhost:3000/dashboard and we get whatever we have returned as a component from the file page.tsx
+  -more information will be added as we go on forward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
